@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-resource-planning-react-native",
+  "capabilityKey": "liberusoftware/module-crm-resource-planning",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-crm-resource-planning-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/crm/nextjs/resource-planning.md",
+  "presentationPlan": "projects/crm/react-native/resource-planning.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
